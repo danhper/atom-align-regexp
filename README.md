@@ -2,6 +2,8 @@
 
 This package is more or less the equivalent of Emacs `align-regexp` command for Atom.
 
+![Demo](https://cloud.githubusercontent.com/assets/1436271/16177861/6b836c04-3673-11e6-9506-38c785bd2e50.gif)
+
 ## Installation
 
 Install the `align-regexp` package using atom package manager, if you use the CLI:
