@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Align selection",
+        "command": "align-regexp:align-selection"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Edit",
+      "submenu": [
+        {
+          "label": "Text",
+          "submenu": [
+            {
+              "label": "Align selection",
+              "command": "align-regexp:align-selection"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

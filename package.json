@@ -1,0 +1,20 @@
+{
+  "name": "align-regexp",
+  "main": "./lib/align-regexp",
+  "version": "0.1.0",
+  "description": "Aligns selection using regexp",
+  "keywords": [
+    "align",
+    "alignment"
+  ],
+  "activationCommands": {
+    "atom-workspace": "align-regexp:align-selection"
+  },
+  "repository": "https://github.com/tuvistavie/atom-align-regexp",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
