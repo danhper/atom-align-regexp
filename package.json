@@ -1,7 +1,7 @@
 {
   "name": "align-regexp",
   "main": "./lib/align-regexp",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "Aligns selection using regexp",
   "keywords": [
     "align",
